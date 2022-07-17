@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0"
+    xmlns:pdv="http:/www.goatshead.net/ns/1.0">
+    <!-- custom markup namespace -->
+
+    <teiHeader>
+        <!-- to do -->
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <p>
+                <pb ed="ms" n="65v"/>
+                <lb ed="ms" n="1"/>
+                <w me:msa="xIT">hwæt</w>
+                <w me:msa="xPE">we</w>
+                <w me:msa="xPD">ðæt</w>
+                <w me:msa="xVB fF">hyrdon</w>
+                
+                <lb ed="ms" n="1"/>
+                <w me:msa="xNC">hæleð</w>
+                <w me:msa="xVB fI">eahtian</w>
+                <w me:msa="xNC">deman</w>
+                <w me:msa="xAJ">dædhwate</w>
+                <w me:msa="xCS">þætte</w>
+                <w me:msa="xAP">in</w>
+                <w me:msa="x">dagum</w>
+                
+                <lb ed="ms" n="3"/>
+                <w me:msa="xVF">gelamp</w>
+                <w me:msa="xNP">maximianes</w>
+                <w me:msa="xRP">se</w>
+                <w me:msa="xAP">geond</w>
+                <w me:msa="xNC">middangeard</w>
+                <w me:msa="xAJ">ar<lb ed="ms" n="4"/>leas</w>
+                
+                <w me:msa="xNC">cyning</w>
+                <w me:msa="xNC">eahtnysse</w>
+                <w me:msa="xVB fF">ahof</w>
+                <w me:msa="xVB fF">cwealde</w>
+                <w me:msa="xAJ">cristne</w>
+                <w me:msa="xNC">men</w>
+                <w me:msa="xNC">cir<lb ed="ms" n="5"/>can</w>
+                
+                <w me:msa="xVB fF">fylde</w>
+                <w me:msa="xVB fF">geat</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">græswong</w>
+                <w me:msa="xAJ">godhergendra</w> <!-- preceding word added by emmender --> <!-- substantive adjective -->
+                <w me:msa="xAJ">hæþen</w>
+                <w me:msa="xNC">hild<lb ed="ms" n="6"/>fruma</w>
+                
+                <w me:msa="xAJ">haligra</w>
+                <w me:msa="xNC">blod</w>
+                <w me:msa="xAJ">ryhtfremmendra</w> <!-- substantive adjective -->
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xPE">his</w>
+                <w me:msa="xNC">rice</w>
+                
+                <pb ed="ms" n="66r"/>
+                <lb ed="ms" n="7"/>
+                <w me:msa="xAJ">brad</w>
+                <w me:msa="xAJ">wid</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAJ">weorðlic</w>
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xNC">werþeode</w>
+                <w me:msa="xAV">lytesna</w>
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xDP">ealne</w>
+                <w me:msa="xAJ">yrmen<lb ed="ms" n="8"/>ne</w>
+                
+                <w me:msa="xNC">grund</w>
+                <w me:msa="xVB fF">foron</w>
+                <w me:msa="xAP">æfter</w>
+                <w me:msa="xNC">burgum</w>
+                <w me:msa="xCS">swa</w>
+                <w me:msa="xPP">he</w>
+                <w me:msa="xVB fP">biboden</w>
+                <w me:msa="xVB fF">hæfde</w>
+                <w me:msa="xNC">þegn<lb ed="ms" n="9"/>as</w>
+                
+                <w me:msa="xAJ">þryðfulle</w>
+                <w me:msa="xAV">oft</w>
+                <w me:msa="xPP">hi</w>
+                <w me:msa="xNC">þræce</w>
+                <w me:msa="xVB fF">rærdon</w>
+                <w me:msa="xNC">dædum</w>
+                <w me:msa="xAJ">gedwolene</w>
+                <w me:msa="xCS">þa</w>
+                
+                <lb ed="ms" n="10"/>
+                <w me:msa="xAT">þe</w>
+                <w me:msa="xNC">dryhtnes</w>
+                <w me:msa="xNC">æ</w>
+                <w me:msa="xVB fF">feodon</w>
+                <w me:msa="xAP">þurh</w>
+                <w me:msa="xNC">firencræft</w>
+                <w me:msa="xNC">feondscype</w>
+                    
+                <lb ed="ms" n="11"/>
+                <w me:msa="xVB fF">rærdon</w>
+                <w me:msa="xVB fF">hofon</w>
+                <w me:msa="xNC">hæþengield</w>
+                <w me:msa="xNC">halge</w>
+                <w me:msa="xVB fF">cwelmdon</w>
+                <w me:msa="xVB fF">breotun</w>
+                <w me:msa="xNC">boc<lb ed="ms" n="12"/>cræftge</w>
+                    
+                <w me:msa="xVB fF">bærdon</w>
+                <w me:msa="xNC">gecorene</w>
+                <w me:msa="xVB fF">gæston</w>
+                <w me:msa="xNC">godes</w>
+                <w me:msa="xNC">cempan</w>
+                <w me:msa="xNC">gare</w>
+                <w me:msa="xCC">ond</w>
+                    
+                <lb ed="ms" n="13"/>
+                <w me:msa="xNC">lige</w>
+                <w me:msa="xDQ">sum</w>
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xAJ">æhtwelig</w>
+                <w me:msa="xNC">æþeles</w>
+                <w me:msa="xNC">cynnes</w>
+                <w me:msa="xNC">rice</w>
+                <w me:msa="xVB fP">gerefa</w>
+                <w me:msa="xNC">rond<lb ed="ms" n="14"/>burgum</w>
+                    
+                <w me:msa="xVB fF">weold</w>
+                <w me:msa="xNC">eard</w>
+                <w me:msa="xVB fF">weardade</w>
+                <w me:msa="xAV">oftast</w>
+                <w me:msa="xAV">symle</w>
+                <w me:msa="xAP">in</w>
+                <w me:msa="xDD">þære</w>
+                    
+                <lb ed="ms" n="15"/>
+                <w me:msa="xNC">ceastre</w>
+                <w me:msa="xNP">commedia</w>
+                <w me:msa="xVB fF">heold</w>
+                <w me:msa="xNC">hordgestreon</w>
+                <w me:msa="xAV">oft</w>
+                <w me:msa="xPE">he</w>
+                <w me:msa="xNC">hæþengi<lb ed="ms" n="16"/>eld</w>
+                    
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xNC">word</w>
+                <w me:msa="xNC">godes</w>
+                <w me:msa="xNC">weoh</w>
+                <w me:msa="xVB fF">gesohte</w>
+                <w me:msa="xAJ">neode</w>
+                <w me:msa="xNC">geneahhe</w>
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xPE">him</w>
+                    
+                <lb ed="ms" n="17"/>
+                <w me:msa="xNC">noma</w>
+                <w me:msa="xVB fP">cenned</w>
+                <w me:msa="xNP">heliseus</w>
+                <w me:msa="xVB fF">hæfde</w>
+                <w me:msa="xNC">ealdordom</w>
+                <w me:msa="xAJ">micelne</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAJ">mær<lb ed="ms" n="18"/>ne</w>
+                    
+                <w me:msa="xCC">ða</w>
+                <w me:msa="xPE">his</w>
+                <w me:msa="xNC">mod</w>
+                <w me:msa="xVB fF">ongon</w>
+                <w me:msa="xNC">fæmnan</w>
+                <w me:msa="xVB fI">lufian</w>
+                <w me:msa="xPE">hine</w>
+                <w me:msa="xNC">fyrwet</w>
+                <w me:msa="xVB fF">bræc</w>
+                <!--previous three words added by emmenders -->
+                
+                <lb ed="ms" n="19"/>
+                <w me:msa="xNP">Iulianan</w>
+                <w me:msa="xPE">hio</w>
+                <w me:msa="xAP">in</w>
+                <w me:msa="xNC">gæste</w>
+                <w me:msa="xVB fF">bær</w>
+                <w me:msa="xAJ">halge</w>
+                <w me:msa="xNC">treowe</w>
+                <w me:msa="xVB fF">hogde</w>
+                <w me:msa="xAV">georne</w>
+                    
+                <lb ed="ms" n="20"/>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">hire</w>
+                <w me:msa="xNC">mægðhad</w>
+                <w me:msa="xNC">mana</w>
+                <w me:msa="xDQ">gehwylces</w>
+                <w me:msa="xAP">fore</w>
+                <w me:msa="xNC">cristes</w>
+                <w me:msa="xNC">lufan</w>
+                <w me:msa="xAJ">clæ<lb ed="ms" n="21"/>ne</w>
+                    
+                <w me:msa="xVB fF">geheolde</w>
+                <w me:msa="xCC">ða</w>
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xDD">sio</w>
+                <w me:msa="xNC">fæmne</w>
+                <w me:msa="xAP">mid</w>
+                <w me:msa="xDP">hyre</w>
+                <w me:msa="xNC">fæder</w>
+                <w me:msa="xNC">willan</w>
+                
+                <lb ed="ms" n="22"/>
+                <w me:msa="xNC">welegum</w>
+                <w me:msa="xCB fP">biweddad</w>
+                <w me:msa="xVB fF">wyrd</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xAV">ful</w>
+                <w me:msa="xAJ">cuþe</w>
+                <w me:msa="xNC">freondrædenne</w>
+                    
+                <lb ed="ms" n="23"/>
+                <w me:msa="xAV">hu</w>
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xAP">from</w>
+                <w me:msa="xVB fF">hogde</w>
+                <w me:msa="xAJ">geong</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">gæste</w>
+                <w me:msa="xPE">hire</w>
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xNC">godes</w>
+                <w me:msa="xNC">egsa</w>
+                    
+                <lb ed="ms" n="24"/>
+                <w me:msa="xAV">mara</w>
+                <w me:msa="xAP">in</w>
+                <w me:msa="xNC">gemyndum</w>
+                <w me:msa="xCS">þonne</w>
+                <w me:msa="xDQ">eall</w>
+                <w me:msa="xAT">þæt</w>
+                <w me:msa="xNC">maþþumgesteald</w>
+                <w me:msa="xCS">þe</w>
+                <w me:msa="xAP">in</w>
+                
+                <lb ed="ms" n="25"/>
+                <w me:msa="xDD">þæs</w>
+                <w me:msa="xNC">æþelinges</w>
+                <w me:msa="xNC">æhtum</w>
+                <w me:msa="xVB fF">wunade</w>
+                <w me:msa="xAV">þa</w>
+                <w me:msa="xVB fF">wæs</w>
+                <w me:msa="xAT">se</w>
+                <w me:msa="xAJ">weliga</w> <!-- substantive adj -->
+                <w me:msa="xDD">þære</w>
+                <w me:msa="xNC">wif<lb ed="ms" n="26"/>gifta</w>
+                    
+                <w me:msa="xAJ">goldspedig</w>
+                <w me:msa="xNC">guma</w>
+                <w me:msa="xAJ">georn</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">mode</w>
+                <w me:msa="xSC">þæt</w>
+                <w me:msa="xNC">him</w>
+                <w me:msa="xVB fF">mon</w>
+                <lb ed="ms" n="27"/>
+                    
+                <w me:msa="xAV">fromlicast</w>
+                <w me:msa="xNC">fæmnan</w>
+                <w me:msa="xVB  fP">gegyrede</w>
+                <w me:msa="xNC">bryd</w>
+                <w me:msa="xAP">to</w>
+                <w me:msa="xNC">bolde</w>
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xDD">þæs</w>
+                    
+                <lb ed="ms" n="28"/>
+                <w me:msa="xNC">beornes</w>
+                <w me:msa="xNC">lufan</w>
+                <w me:msa="xAV">fæste</w>
+                <w me:msa="xVB fF">wiðhogde</w>
+                <w me:msa="xCS">þeah</w>
+                <w me:msa="xAT">þe</w>
+                <w me:msa="xNC">feohgestreon</w>
+                    
+                <pb ed="ms" n="66v"
+                <lb ed="ms" n="29"/>
+                <w me:msa="xAV">under</w>
+                <w me:msa="xNC">hordlocan</w>
+                <w me:msa="xNC">hyrsta</w>
+                <w me:msa="xAJ">unrim</w>
+                <w me:msa="xVB fF">æhte</w>
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xNC">eorþan</w>
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xDD">þæt</w>
+                    
+                <lb ed="ms" n="30"/>
+                <w me:msa="xNC">eal</w>
+                <w me:msa="xVB fF">forseah</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAT">þæt</w>
+                <w me:msa="xNC">word</w>
+                <w me:msa="xVB fF">acwæð</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">wera</w>
+                <w me:msa="xNC">mengu</w>
+                <w me:msa="xPE">ic</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xVB fF">mæg</w>
+                <w me:msa="xVB fI">ge<lb ed="ms" n="31"/>secgan</w>
+                    
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xPE">þec</w>
+                <w me:msa="xPE">sylfne</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fF">þearft</w>
+                <w me:msa="xAV">swiþor</w>
+                <w me:msa="xVB fI">swencan</w>
+                <w me:msa="xCS">gif</w>
+                    
+                <lb ed="ms" n="32"/>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xAJ">soðne</w>
+                <w me:msa="xNC">god</w>
+                <w me:msa="xVB fF">lufast</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xVB fF">gelyfest</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xDP">his</w>
+                <w me:msa="xNC">lof</w>
+                <w me:msa="xVB fF">rærest</w>
+                <w me:msa="xVB fF">ongie<lb ed="ms" n="33"/>test</w>
+                    
+                <w me:msa="xNC">gæsta</w>
+                <w me:msa="xNC">hleo</w>
+                <w me:msa="xPE">ic</w>
+                <w me:msa="xVB fF">beo</w>
+                <w me:msa="xAV">gearo</w>
+                <w me:msa="xAV">sona</w>
+                <w me:msa="xAV">unwaclice</w>
+                <w me:msa="xNC">willan</w>
+                <w me:msa="xDP">þi<lb ed="ms" n="34"/>nes</w>
+                    
+                <w me:msa="AVx">swylce</w>
+                <w me:msa="xPE">ic</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xVB fF">secge</w>
+                <w me:msa="xCS">gif</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xAP">to</w>
+                <w me:msa="xAJ">sæmran</w>
+                <w me:msa="xNC">gode</w>
+                <w me:msa="xAP">þurh</w>
+                <w me:msa="xNC">deofol<lb ed="ms" n="35"/>gield</w>
+                    
+                <w me:msa="xNC">dæde</w>
+                <w me:msa="xVB fF">biþencest</w>
+                <w me:msa="xVB fF">hætsð</w>
+                <w me:msa="xNC">hæþenweoh</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fF">meaht</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xVB fI">hab<lb ed="ms" n="36"/>ban</w>
+                    
+                <w me:msa="xPE">mec</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fI">geþreatian</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xIM">to</w>
+                <w me:msa="xVB fI">gesingan</w>
+                <w me:msa="xAV">næfre</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xDD">þæs</w>
+                <w me:msa="xAV">swið<lb ed="ms" n="37"/>lic</w>
+                    
+                <w me:msa="xAJ">sar</w>
+                <w me:msa="xVB fF">gegearwast</w>
+                <w me:msa="xAP">þurh</w>
+                <w me:msa="xAJ">hæstne</w>
+                <w me:msa="xNC">nið</w>
+                <w me:msa="xAJ">heardra</w>
+                <w me:msa="xNC">wita</w>
+                    
+                <lb ed="ms" n="38"/>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xPE">mec</w>
+                <w me:msa="xVB fF">onwende</w>
+                <w me:msa="xNC">worda</w>
+                <w me:msa="xDD">þissa</w>
+                <w me:msa="xCC">ða</w>
+                <w me:msa="xAT">se</w>
+                <w me:msa="xNC">æþeling</w>
+                <w me:msa="xVB fF">wearð</w>
+                    
+                <lb ed="ms" n="39"/>
+                <w me:msa="xNC">yrre</w>
+                <w me:msa="xVB fP">gebolgen</w>
+                <w me:msa="xNC">firendædum</w>
+                <w me:msa="xVB fP">fah</w>
+                <w me:msa="xVB fF">gehyrde</w>
+                <w me:msa="xDD">þære</w>
+                <w me:msa="xNC">fæmnan</w>
+                    
+                <lb ed="ms" n="40"/>
+                <w me:msa="xNC">word</w>
+                <w me:msa="xVB fF">het</w>
+                <w me:msa="xCS">ða</w>
+                <w me:msa="xVB fI">gefetigan</w>
+                <w me:msa="xNC">ferend</w>
+                <w me:msa="xAJ">snelle</w>
+                <w me:msa="xAJ">hreoh</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAJ">hygeblind</w>
+                    
+                <lb ed="ms" n="41"/>
+                <w me:msa="xNC">haligre</w>
+                <w me:msa="xNC">fæder</w>
+                <w me:msa="xAV">recene</w>
+                <w me:msa="xAP">to</w>
+                <w me:msa="xNC">rune</w>
+                <w me:msa="xNC">reord</w>
+                <w me:msa="xAV">up</w>
+                <w me:msa="xVB fF">astag</w>
+                <w me:msa="xCS">siþþan</w>
+                    
+                <lb ed="ms" n="42"/>
+                <w me:msa="xPE">hy</w>
+                <w me:msa="xAV">togædre</w>
+                <w me:msa="xNC">garas</w>
+                <w me:msa="xVB fF">hlændon</w>
+                <w me:msa="xNC">hildeþremman</w>
+                <w me:msa="xAJ">hæðne</w>
+                    
+                <lb ed="ms" n="43"/>
+                <w me:msa="xVB fF">wæron</w>
+                <w me:msa="xDQ">begen</w>
+                <w me:msa="xNC">synnum</w>
+                <w me:msa="xAJ">seoce</w>
+                <w me:msa="xNC">sweor</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xNC">aþum</w>
+                <w me:msa="xCC">ða</w>
+                <w me:msa="xVB fF">reordode</w>
+                    
+                <lb ed="ms" n="44"/>
+                <w me:msa="xNC">rices</w>
+                <w me:msa="xNC">hyrde</w>
+                <w me:msa="xAP">wið</w>
+                <w me:msa="xAT">þære</w>
+                <w me:msa="xNC">fæmnan</w>
+                <w me:msa="xNC">fæder</w>
+                <w me:msa="xAJ">frecne</w>
+                <w me:msa="xNC">mode</w>
+                    
+                <lb ed="ms" n="45"/>
+                <w me:msa="xVB fP">daraðhæbbende</w>
+                <w me:msa="xPE">me</w>
+                <w me:msa="xDP">þin</w>
+                <w me:msa="xNC">dohtor</w>
+                <w me:msa="xVB fF">hafað</w>
+                <w me:msa="xVB fP">geywed</w>
+                <w me:msa="xNC">orwyr<lb ed="ms" n="46"/>ðu</w>
+                    
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xPE">me</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xAJ">an</w>
+                <w me:msa="xVB fF">sagað</w>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xNC">mæglufan</w>
+                <w me:msa="xDP">minre</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fF">gy<lb ed="ms" n="47"/>me</w>
+                    
+                <w me:msa="xNC">freondrædenne</w>
+                <w me:msa="xPE">me</w>
+                <w me:msa="xAV">þa</w>
+                <w me:msa="xNC">fraceðu</w>
+                <w me:msa="xVB fF">sind</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">mod<lb ed="ms" n="48"/>sifan</w>
+                    
+                <w me:msa="xAJ">mæste</w>
+                <w me:msa="xNC">weorce</w>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">heo</w>
+                <w me:msa="xPE">mec</w>
+                <w me:msa="xAV">swa</w>
+                <w me:msa="xAJ">torne</w>
+                <w me:msa="xNC">tæle</w>
+                <w me:msa="xVB fF">gerah<lb ed="ms" n="49"/>te</w>
+                    
+                <w me:msa="xAP">fore</w>
+                <w me:msa="xDD">þissum</w>
+                <w me:msa="xNC">folce</w>
+                <w me:msa="xVB fF">het</w>
+                <w me:msa="xPE">me</w>
+                <w me:msa="xAJ">fremdne</w>
+                <w me:msa="xNC">god</w>
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xAT">þa</w>
+                    
+                <lb ed="ms" n="50"/>
+                <w me:msa="xAJ">oþre</w> <!-- substantive adj -->
+                <w me:msa="xRP">þe</w>
+                <w me:msa="xPE">we</w>
+                <w me:msa="xAV">ær</w>
+                <w me:msa="xVB fF">cuþon</w>
+                <w me:msa="xNC">welum</w>
+                <w me:msa="xVB fI">weorþian</w>
+                <w me:msa="xNC">wordum</w>
+                <w me:msa="xVB fI">lofian</w>
+                    
+                <pb ed="ms" n="67v"/>
+                <lb ed="ms" n="51"/>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">hyge</w>
+                <w me:msa="xVB fI">hergan</w>
+                <w me:msa="xCS">oþþe</w>
+                <w me:msa="xPE">hi</w>
+                <seg type="enc"> <!--contraction ne+habban -->
+                    <w lemma="ne" me:msa="xVB fI">n</w>
+                    <w lemma="habban" me:msg="xVB fI">abban</w>
+                <seg>
+                <w me:msa="xVB fF">geswearc</w>
+                <w me:msa="xAV">þa</w>
+                <w me:msa="xNC">swiðferð</w>
+                <w me:msa="xAJ">swor</w>
+                    
+                <lb ed="ms" n="52"/>
+                <w me:msa="xAP">æfter</w>
+                <w me:msa="xNC">worde</w>
+                <w me:msa="xDP">þære</w>
+                <w me:msa="xNC">fæmnan</w>
+                <w me:msa="xNC">fæder</w>
+                <w me:msa="xNC">ferðlocan</w>
+                <w me:msa="xVB vP">onspeon</w>
+                <w me:msa="xPE">ic</w>
+                    
+                <lb ed="ms" n="53"/>
+                <w me:msa="xPE">þæt</w>
+                <w me:msa="xVB fF">geswerge</w>
+                <w me:msa="xAP">þurh</w>
+                <w me:msa="xAJ">soð</w>
+                <w me:msa="xNC">godu</w>
+                <w me:msa="xCS">swa</w>
+                <w me:msa="xPE">ic</w>
+                <w me:msa="xNC">are</w>
+                <w me:msa="xAP">æt</w>
+                <w me:msa="xPE">him</w>
+                <w me:msa="xAV">æfre</w>
+                <w me:msa="xVB fF">finde</w>
+                    
+                <lb ed="ms" n="54"/>
+                <w me:msa="xCC">oþþe</w>
+                <w me:msa="xNC">þeoden</w>
+                <w me:msa="xAP">æt</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xDP">þine</w>
+                <w me:msa="xNC">hyldu</w>
+                <w me:msa="xNC">winburgum</w>
+                <w me:msa="xAP">in</w>
+                <w me:msa="xAV">gif</w>
+                <w me:msa="xAT">þas</w>
+                <w me:msa="xNC">word</w>
+                    
+                <lb ed="ms" n="55"/>
+                <w me:msa="xVB fF">sind</w>
+                <w me:msa="xAJ">soþ</w>
+                <w me:msa="xDP">monna</w>
+                <w me:msa="xAJ">leofast</w> <!-- substantive adj -->
+                <w me:msa="xRP">þe</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xPE">me</w>
+                <w me:msa="xVB fF">sagast</w>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">ic</w>
+                <w me:msa="xPE">hy</w>
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fF">sparige</w>
+                    
+                <lb ed="ms" n="56"/>
+                <w me:msa="xSB">ac</w>
+                <w me:msa="xAV">on</w>
+                <w me:msa="xNC">spild</w>
+                <w me:msa="xVB fF">giefe</w>
+                <w me:msa="xNC">þeoden</w>
+                <w me:msa="xAJ">mæra</w>
+                <w me:msa="xRP">þe</w>
+                <w me:msa="xAV">to</w>
+                <w me:msa="xNC">geweald</w>
+                <w me:msa="xVB fF">dem</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xPE">hi</w>
+                <w me:msa="xAV">to</w>
+                <w me:msa="xNC">dea<lb ed="ms" n=57"/>þe</w>
+                    
+                <w me:msa="xCS">gif</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xAJ">gedafen</w>
+                <w me:msa="xVB fF">þince</w>
+                <w me:msa="xCC">swa</w>
+                <w me:msa="xAV">to</w>
+                <w me:msa="xNC">life</w>
+                <w me:msa="xVB fF">læt</w>
+                <w me:msa="xCS">swa</w>
+                <w me:msa="xPE">þe</w>
+                <w me:msa="xAJ">leofre</w>
+                <w me:msa="xVB fF">sy</w>
+                    
+                <lb ed="ms" n="58"/>
+                <w me:msa="xVB fF">eode</w>
+                <w me:msa="xAV">þa</w>
+                <w me:msa="xAV">fromlice</w>
+                <w me:msa="xNC">fæmnan</w>
+                <w me:msa="xAP">to</w>
+                <w me:msa="xNC">spræce</w>
+                <w me:msa="xAV">anræd</w>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAV">yreþweorg</w>
+                    
+                <lb ed="ms" n="59"/>
+                <w me:msa="xNC">yrre</w>
+                <w me:msa="xVB fP">gebolgen</w>
+                <w me:msa="xPI">þær</w>
+                <w me:msa="xPE">he</w>
+                <w me:msa="xAJ">glædmod</w>
+                <w me:msa="xAJ">geonge</w> <!-- substantive adj -->
+                <w me:msa="xVB fF">wiste</w>
+                <w me:msa="xNC">wic</w>
+                <w me:msa="xVB fI">weardi<lb ed="ms" n="60"/>an</w>
+                    
+                <w me:msa="xPE">he</w>
+                <w me:msa="xAT">þa</w>
+                <w me:msa="xNC">worde</w>
+                <w me:msa="xVB fF">cwæð</w>
+                <w me:msa="xPE">ðu</w>
+                <w me:msa="xVB fF">eart</w>
+                <w me:msa="xNC">dohtor</w>
+                <w me:msa="xAJ">min</w>
+                <w me:msa="xAT">seo</w>
+                <w me:msa="xAJ">dyreste</w> <!-- substantive adj -->
+                    
+                <lb ed="ms" n="61"/>
+                <w me:msa="xCC">ond</w>
+                <w me:msa="xAT">seo</w>
+                <w me:msa="xAJ">sweteste</w> <!-- substantive adj -->
+                <w me:msa="xAP">in</w>
+                <w me:msa="xNC">sefan</w>
+                <w me:msa="xDP">minum</w>
+                <w me:msa="xAJ">ange</w>
+                <w me:msa="xAV">for</w>
+                <w me:msa="xNC">eorþan</w>
+                <w me:msa="xDP">minra</w>
+                    
+                <lb ed="ms" n="62"/>
+                <w me:msa="xAJ">eagna</w>
+                <w me:msa="xNC">leoht</w>
+                <w me:msa="xNP">iuliana</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xAP">on</w>
+                <w me:msa="xNC">geaþe</w>
+                <w me:msa="xVB fI">hafast</w>
+                <w me:msa="xAP">þurh</w>
+                <w me:msa="xDP">þin</w>
+                <w me:msa="xNC">orlegu</w>
+                    
+                <lb ed="ms" n="63"/>
+                <w me:msa="xAJ">unbiþyrfe</w>
+                <w me:msa="xAP">ofer</w>
+                <w me:msa="xNC">witena</w>
+                <w me:msa="xNC">dom</w>
+                <w me:msa="xNC">wisan</w>
+                <w me:msa="xVB fP">gefongen</w>
+                <w me:msa="xVB fF">wiðsæcest</w>
+                    
+                <lb ed="ms" n="64"/>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xAV">to</w>
+                <w me:msa="xAV">swiþe</w>
+                <w me:msa="xDP">sylfre</w>
+                <w me:msa="xNC">rædes</w>
+                <w me:msa="xDP">þinum</w>
+                <w me:msa="xNC">brydguman</w>
+                <w me:msa="xRP">se</w>
+                <w me:msa="xVB fF">is</w>
+                <w me:msa="xAJ">betra</w>
+                    
+                <lb ed="ms" n="65"/>
+                <w me:msa="xAP">þonne</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xAJ">æþelra</w>
+                <w me:msa="xAP">for</w>
+                <w me:msa="xNC">eorþan</w>
+                <w me:msa="xAJ">æhtspedigra</w>
+                <w me:msa="xNC">feohgestreo<lb ed="ms" n="66"/>na</w>
+                    
+                <w me:msa="xPE">he</w>
+                <w me:msa="xVB fF">is</w>
+                <w me:msa="xAP">to</w>
+                <w me:msa="xNC">freonde</w>
+                <w me:msa="xAJ">god</w>
+                <w me:msa="xCC">forþon</w>
+                <w me:msa="xVB fF">is</w>
+                <w me:msa="xDD">þæs</w>
+                <w me:msa="xAJ">wyrþe</w>
+                <w me:msa="xCS">þæt</w>
+                <w me:msa="xPE">þu</w>
+                <w me:msa="xDD">þæs</w>
+                    
+                <lb ed="ms" n="67"/>
+                <w me:msa="xNC">weres</w>
+                <w me:msa="xNC">frige</w>
+                <w me:msa="xAJ">ece</w>
+                <w me:msa="xNC">eadlufan</w>
+                <w me:msa="xAP">an</w> <!-- alternate form of en -->
+                <w me:msa="xAV">ne</w>
+                <w me:msa="xVB fF">forlæte</w>
+            </p>
+
+        </body>
+    </text>
+
+</TEI>
